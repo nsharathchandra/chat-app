@@ -39,5 +39,5 @@ To learn React, check out the React documentation.
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration</p>
 
 <h1>Deployment<h1>
-<p>This section has moved here: https://facebook.github.io/create-react-app/docs/deployment <p>
+<p>This section has moved here: https://facebook.github.io/create-react-app/docs/deployment </p>
 
