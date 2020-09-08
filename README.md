@@ -14,7 +14,7 @@
 
 <h1> Available Scripts </h1>
 <p>In the project directory head to the client folder and run: </p>
-<h4>yarn start </h4>
+<h3>yarn start </h3>
 <p>Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
@@ -35,7 +35,7 @@ To learn React, check out the React documentation.
 <h1>Making a Progressive Web App </h1>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app </p>
 
-<h1>Advanced Configuration<h1>
+<h1>Advanced Configuration</h1>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration</p>
 
 <h1>Deployment<h1>
