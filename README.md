@@ -12,7 +12,7 @@
 <li> yarn </li>
 </ul>
 
-<h1> Available Scripts </h1>
+<h2> Available Scripts </h2>
 <p>In the project directory head to the client folder and run: </p>
 <h3>yarn start </h3>
 <p>Runs the app in the development mode.
@@ -21,23 +21,23 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.</p>
 
-<h1>Learn More</h1>
+<h2>Learn More</h2>
 <p>You can learn more in the Create React App documentation. 
 
 To learn React, check out the React documentation.
 </p>
-<h1> Code Splitting </h1>
+<h2> Code Splitting </h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting </p>
 
-<h1> Analyzing the Bundle Size </h1>
+<h2> Analyzing the Bundle Size </h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size </p>
 
-<h1>Making a Progressive Web App </h1>
+<h2>Making a Progressive Web App </h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app </p>
 
-<h1>Advanced Configuration</h1>
+<h2>Advanced Configuration</h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration</p>
 
-<h1>Deployment</h1>
+<h2>Deployment</h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/deployment </p>
 
