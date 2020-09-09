@@ -15,11 +15,17 @@
 <h2> Available Scripts </h2>
 <p>In the project directory head to the client folder and run: </p>
 <h3>yarn start </h3>
-<p>Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+<p>The client will be running at http://localhost:8080/ </p>
+<p>Now open another terminal and keeping current directory as home-page, run: </p>
+<h3>yarn start </h3>
+<p>This will create another user and will be running at http://localhost:8081/ </p>
+<p>If more users need to be added, just open more terminals and keeping current directory as home-page, run: </p>
+<h3>yarn start </h3>
+<p>You should be able to type messages between multiple users to see the chat-app working real time. </p>
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.</p>
+<h2>Screenshots</h2>
+<img src="./user1.png">
+<img src="./user1.png">
 
 <h2>Learn More</h2>
 <p>You can learn more in the Create React App documentation. 
