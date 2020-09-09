@@ -24,8 +24,8 @@
 <p>You should be able to type messages between multiple users to see the chat-app working real time. </p>
 
 <h2>Screenshots</h2>
-<img src="./user1.png">
-<img src="./user1.png">
+<img src="./images/user1.png">
+<img src="./images/user2.png">
 
 <h2>Learn More</h2>
 <p>You can learn more in the Create React App documentation. 
