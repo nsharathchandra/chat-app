@@ -15,10 +15,10 @@
 <h2> Available Scripts </h2>
 <p>In the project directory head to the client folder and run: </p>
 <h3>yarn start </h3>
-<p>The client will be running at http://localhost:8080/ </p>
+<p>The client will be running at <a href="http://localhost:8080/">http://localhost:8080/</a> </p>
 <p>Now open another terminal and keeping current directory as home-page, run: </p>
 <h3>yarn start </h3>
-<p>This will create another user and will be running at http://localhost:8081/ </p>
+<p>This will create another user and will be running at <a href="http://localhost:8081/">http://localhost:8081/</a> </p>
 <p>If more users need to be added, just open more terminals and keeping current directory as home-page, run: </p>
 <h3>yarn start </h3>
 <p>You should be able to type messages between multiple users to see the chat-app working real time. </p>
@@ -31,6 +31,7 @@
 <p>You can learn more in the Create React App documentation. 
 
 To learn React, check out the React documentation.
+https://reactjs.org/docs/getting-started.html
 </p>
 <h2> Code Splitting </h2>
 <p>This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting </p>
