@@ -5,10 +5,9 @@
 <ul>
 <li>cd client </li>
 <li> yarn </li>
-<li>cd ..</li>
-<li>cd client </li>
+<li>cd ../server</li>
 <li> yarn </li>
-<li>cd client </li>
+<li>cd ../home-page </li>
 <li> yarn </li>
 </ul>
 
